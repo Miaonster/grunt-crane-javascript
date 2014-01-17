@@ -14,6 +14,6 @@ Once the plugin has been installed, specify your file with this builder:
 
 ```javascript
 builder: [
-    ["some.js", require("grunt-crane-javascript/builder/less")]
+    ["some.js", require("grunt-crane-javascript/builder/javascript")]
 ]
 ```
