@@ -1,6 +1,6 @@
-# grunt-crane-less
+# grunt-crane-javascript
 
-Builder for grunt-crane, which build less files.
+Builder for grunt-crane, which build and compress javascript files.
 
 ## Installation
 
