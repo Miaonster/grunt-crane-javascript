@@ -36,6 +36,6 @@
     "grunt": "~0.4.1"
   },
   "dependencies": {
-    "uglify-js": "2.4.9"
+    "uglify-js": "3.6.3"
   }
 }
